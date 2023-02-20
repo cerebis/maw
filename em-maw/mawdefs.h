@@ -25,7 +25,7 @@
 #define DEL_STR                 "$"
 
 #define DNA                     "ACGTN"                         //DNA alphabet
-#define PROT                    "ARNDCQEGHILKMFPSTWYV"          //Proteins alphabet
+#define PROT                    "ARNDCQEGHILKMFPSTWYVXJZB"          //Proteins alphabet
 #define IUPAC                   "ACGTUWSMKRYBDHVN"          	//IUPAC alphabet
 
 using namespace sdsl;

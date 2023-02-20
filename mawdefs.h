@@ -22,7 +22,7 @@
 #define DEL_STR                 "$"
 
 #define DNA                     "ACGTN"                         //DNA alphabet
-#define PROT                    "ARNDCQEGHILKMFPSTWYV"          //Proteins alphabet
+#define PROT                    "ARNDCQEGHILKMFPSTWYVX"          //Proteins alphabet
 #define IUPAC                   "ACGTUWSMKRYBDHVN"          	//IUPAC alphabet
 #define max(a,b) ((a) > (b)) ? (a) : (b)
 #define min(a,b) ((a) < (b)) ? (a) : (b)
